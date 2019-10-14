@@ -5,7 +5,9 @@ export default function Home() {
     <div className="home-wrapper">
       <div class="hero">
         <div class="header">
-          <h1 class="line anim-typewriter">Web dev/design + Photograhy = 🖤</h1>
+          <h1 class="line anim-typewriter">
+            Web dev/design + Photography = 🖤
+          </h1>
         </div>
       </div>
 

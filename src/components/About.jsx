@@ -24,17 +24,17 @@ function About() {
               <br />
 
               <p class="wow fadeInUp">
-                Vivre avec passion, faire ce quon aime, apprendre.. je suis
-                quelq'un de patient, de curieux, energique et passionné. j'aime
-                le sport, la mode, la photographie, la musique, le web, la
-                cuisine et les voyages.
+                Vivre avec passion, faire ce qu'on aime & apprendre.. Je suis
+                quelqu'un de patient, de curieux et de passionné. J'aime le
+                sport, la mode, la photographie, la musique, le web, la cuisine
+                et les voyages.
               </p>
 
               <p class="wow fadeInUp" data-wow-delay="0.2s">
-                Je suis quelqu'un d'autodidacte, à la recherche de nouvelles
-                idées, créations. Que ce soit la photographie, la video, le web
-                design ou meme l'architecture, j'adore tout ce qui est art
-                visuel.
+                Je suis autodidacte, toujours à la recherche de nouvelles idées
+                pour créer d'avantage. Que ce soit la photographie, la video, le
+                web design ou meme l'architecture, j'adore tout ce qui est du
+                domaine de l'art visuel.
               </p>
             </div>
           </div>

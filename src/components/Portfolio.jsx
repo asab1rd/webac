@@ -13,7 +13,7 @@ function Portfolio() {
           <div class="row">
             <div class="col-lg-8">
               <h3 class="wow fadeInUp" data-wow-delay="1s">
-                work.
+                Portfolio
               </h3>
               <br />
               <p class="wow fadeInUp" data-wow-delay="1.2s">
